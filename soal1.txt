@@ -1,0 +1,26 @@
+Soal no.1
+Di kerjakan Oleh :
+Nama  	   : Imam Yudono
+Fakultas   : Fakultas Teknologi dan Informasi
+Prodi 	   : Teknik Informatika
+---------------------------------------------------
+program soal1;
+
+uses wincrt;
+
+var
+i,b,c,d:real;
+begin
+i:=3.0;
+b:=2.0;
+c:=0.0;
+i:=i+i;
+b:=b+i;
+c:=c*i;
+write('Nilai i=',i:2:2,'b=',b:2:2,'c=',c:2:2);
+
+end.
+--------------------------------------------------
+Tampilan akhir dari program diatas yaitu:
+
+Nilai i=6.00b=8.00c=0.00
