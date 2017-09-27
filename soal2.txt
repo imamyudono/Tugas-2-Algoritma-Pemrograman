@@ -4,7 +4,7 @@ Nama  	   : Imam Yudono
 Fakultas   : Fakultas Teknologi dan Informasi
 Prodi 	   : Teknik Informatika
 ----------------------------------------------------------------
-program soal2
+program soal2;
 
 uses crt;
 
